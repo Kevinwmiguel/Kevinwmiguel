@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinwmiguel&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Kevinwmiguel/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinwmiguel&size_weight=0.5&count_weight=1&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/Kevinwmiguel/github-readme-stats)
 ##
-<div style="display:inline_block"><br>
+<div align="center" style="display:inline_block"><br>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Kevin Python">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Kevin JavaScript">
   <img align="center" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Kevin Css">
@@ -22,7 +22,7 @@
 
 ## Contact
  
-<div style="display:inline_block"><br>
+<div align="center" style="display:inline_block"><br>
   <a href="https://www.linkedin.com/in/kevin-miguel-0004b8191/" target="_blank"><img  height="35" widtdh="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
   <a href="https://instagram.com/kevinmwll?igshid=ZDdkNTZiNTM=" target="_blank"><img  height="35" widtdh="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" target="_blank"/></a>
   <a href="mailto:kevincursos@gmail.com" target="_blank"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
