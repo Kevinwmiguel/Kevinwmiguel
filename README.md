@@ -21,10 +21,12 @@
 - 📫 How to reach me: Email: Linkedin:
 - ⚡ Fun fact: I really love to play all the games but also check their codes.
 
+## Contact
+ 
 <div style="display:inline_block"><br>
-  <a href="https://www.linkedin.com/in/kevin-miguel-0004b8191/" target="_blank"><img  height="50" widtdh="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
-  <a href="https://instagram.com/kevinmwll?igshid=ZDdkNTZiNTM=" target="_blank"><img  height="50" widtdh="90" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" target="_blank"/></a>
-  <a href="mailto:kevincursos@gmail.com" target="_blank"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
-  <a href="https://web.whatsapp.com/send?phone=351911079959" target="_blank"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
+  <a href="https://www.linkedin.com/in/kevin-miguel-0004b8191/" target="_blank"><img  height="35" widtdh="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
+  <a href="https://instagram.com/kevinmwll?igshid=ZDdkNTZiNTM=" target="_blank"><img  height="35" widtdh="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" target="_blank"/></a>
+  <a href="mailto:kevincursos@gmail.com" target="_blank"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+  <a href="https://web.whatsapp.com/send?phone=351911079959" target="_blank"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
   
 </div>
