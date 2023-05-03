@@ -16,10 +16,9 @@
 
 
 - 🔭 I’m currently working on Kaizen Gaming (Betano) as a Customer Service and in personal projects
-- 🌱 I'm Learning JavaScript
-
-- 📫 How to reach me: Email: Linkedin:
-- ⚡ Fun fact: I really love to play all the games but also check their codes.
+- 🎈 I wanna become a Full-Stack Developer
+- 🌱 I'm Learning JavaScript!
+- ⚡ Fun fact: I really like to play all kind of games but also check their codes.
 
 ## Contact
  
