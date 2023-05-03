@@ -29,4 +29,4 @@
   <a href="https://web.whatsapp.com/send?phone=351911079959" target="_blank"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a>
   
 </div>
-![snake gif](https://github.com/Kevinwmiguel/Kevinwmiguel/blob/output/github-contribution-grid-snake.svg)
+
