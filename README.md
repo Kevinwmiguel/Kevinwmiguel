@@ -1,7 +1,7 @@
 ## Hello World🌏 I'm Kevin!💻🎮
 - 🔭 I’m currently working on Kaizen Gaming (Betano) as a Customer Service and in personal projects
 - 🎈 I wanna become a Full-Stack Developer
-- 🌱 I'm Learning JavaScript!
+- 📖 Styding JavaScript and TypeScript with Angular.
 - ⚡ Fun fact: I really like to play all kind of games but also check their codes.
 #
 
