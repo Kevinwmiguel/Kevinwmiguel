@@ -28,4 +28,4 @@
   
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kevinwmiguel&repo=Kevinwmiguel&theme=react)](https://github.com/Kevinwmiguel/Kevinwmiguel)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kevinwmiguel&repo=Kevinwmiguel&theme=react)]
