@@ -28,4 +28,4 @@
   
 </div>
 
- <img src="https://github.com/Kevinwmiguel/Kevinwmiguel/blob/output/github-contribution-grid-snake.svg">
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Kevinwmiguel&repo=Kevinwmiguel&theme=react)](https://github.com/Kevinwmiguel/Kevinwmiguel)
