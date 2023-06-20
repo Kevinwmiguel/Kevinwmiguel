@@ -4,8 +4,6 @@
 - ⚡ Fun fact: I really like to play all kind of games but also check their codes.
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinwmiguel&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/Kevinwmiguel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinwmiguel&size_weight=0.5&count_weight=1&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/Kevinwmiguel/github-readme-stats)
 
   ##
 <div align="center" style="display:inline_block"><br>
