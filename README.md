@@ -1,7 +1,7 @@
 ## Hello World🌏 I'm Kevin!💻🎮
-- 🎈 I wanna become a Front-end Developer
-- 📖 Studying JavaScript and TypeScript with Angular.
-- ⚡ Fun fact: I really like to play all kind of games but also check their codes.
+- 🎈 I wanna become a Full Stack Developer
+- 📖 Programming to create better solutions to everyday problems. Learning will always be the best way to have fun.
+I am majoring in Systems Analysis and Development and am looking for opportunities in technology or project management.
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinwmiguel&show_icons=true&theme=tokyonight)
@@ -29,5 +29,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Kevinwmiguel/Kevinwmiguel/blob/output/github-contribution-grid-snake.svg)
 
