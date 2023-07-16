@@ -29,4 +29,5 @@
   
 </div>
 
+![Snake animation](https://github.com/Kevinwmiguel/Kevinwmiguel/blob/output/github-contribution-grid-snake.svg)
 
