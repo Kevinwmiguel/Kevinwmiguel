@@ -4,9 +4,12 @@
 I am majoring in Systems Analysis and Development and am looking for opportunities in technology or project management.
 #
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinwmiguel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinwmiguel&layout=compact&theme=tokyonight)
-  ##
+##
+
 <div align="center" style="display:inline_block"><br>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Kevin Python">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Kevin JavaScript">
@@ -16,8 +19,11 @@ I am majoring in Systems Analysis and Development and am looking for opportuniti
   <img align="center" height="85" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Kevin html">
   <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Kevin Mysql">
   <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Kevin Mysql">
-  
  <div>
+
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=Kevinwmiguel&repo=Kevinwmiguel&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Kevin" height="40px" />
+</div>
 
 ## Contact
  
