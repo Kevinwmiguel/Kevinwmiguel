@@ -18,8 +18,8 @@ I am majoring in Systems Analysis and Development and am looking for opportuniti
   <img align="center" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="Kevin Css">
   <img align="center" height="85" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="Kevin html">
   <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Kevin Mysql">
-  <img align="center" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Kevin Mysql">
- <div>
+  <img align="center" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/512px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601" alt="Kevin AWS">
+ <div> 
 
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=Kevinwmiguel&repo=Kevinwmiguel&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Kevin" height="40px" />
