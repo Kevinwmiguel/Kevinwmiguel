@@ -1,5 +1,5 @@
 ## Hello World🌏 I'm Kevin!💻🎮
-- 🎈 I wanna become a Full Stack Developer
+- 🎈 I wanna become a Front-End Developer
 - 📖 Programming to create better solutions to everyday problems. Learning will always be the best way to have fun.
 I am majoring in Systems Analysis and Development and am looking for opportunities in technology or project management.
 #
