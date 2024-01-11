@@ -22,8 +22,7 @@ I am majoring in Systems Analysis and Development and am looking for opportuniti
   <img align="center" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/512px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601" alt="Kevin AWS">
  <div>
 
-## 
-Contact
+## Contact
  
 <div align="center" style="display:inline_block"><br>
   <a href="https://www.linkedin.com/in/kevin-miguel-0004b8191/" target="_blank"><img  height="35" widtdh="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
