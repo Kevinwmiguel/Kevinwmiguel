@@ -1,8 +1,10 @@
 ## Hello World🌏 I'm Kevin!💻🎮
-- 🎈 Front-end Devolper
-- 📖 Programming to create better solutions to everyday problems. Learning will always be the best way to have fun.
-I am majoring in Systems Analysis and Development and am looking for opportunities in technology or project management.
-#
+
+### About Me
+- **Location:** Currently studying at 42 Lisboa.
+- **Status:** Student seeking employment opportunities in programming.
+- **Interests:** Deepening knowledge in backend with C/C++ and TypeScript/JavaScript, along with Angular.
+- **Goal:** Learning and honing skills to create games.
 
 
 
