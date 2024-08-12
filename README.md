@@ -1,11 +1,12 @@
-## Hello World🌏 I'm Kevin!💻🎮
+## Just Kevin!💻🎮
 
 ### About Me
-- **Location:** Currently studying at 42 Lisboa.
-- **Status:** Student seeking employment opportunities in programming.
-- **Interests:** Deepening knowledge in backend with C/C++ and TypeScript/JavaScript, along with Angular.
+- **Status:** Student at 42 Lisboa looking for job opportunities as a developer.
+- **Interests:** Deepening knowledge in backend with C/C++ and Cybersecurity.
 - **Goal:** Learning and honing skills to create games.
 
+- **Current learning:** React
+- **Current project:** Push_swap 42 Lisbon.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinwmiguel&show_icons=true&theme=tokyonight)
@@ -24,7 +25,7 @@
   <img align="center" height="50" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/512px-AWS_Simple_Icons_AWS_Cloud.svg.png?20191001220601" alt="Kevin AWS">
  <div>
 
-## Contact
+
  
 <div align="center" style="display:inline_block"><br>
   <a href="https://www.linkedin.com/in/kevin-miguel-0004b8191/" target="_blank"><img  height="35" widtdh="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
