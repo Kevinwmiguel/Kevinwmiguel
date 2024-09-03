@@ -5,7 +5,7 @@
 - **Interests:** Deepening knowledge in backend with C/C++ and Cybersecurity.
 - **Goal:** Learning and honing skills to create games.
 
-- **Current learning:** React
+- **Current learning:** SQL / Node.js
 - **Current project:** Push_swap 42 Lisbon.
 
 
