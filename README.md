@@ -6,7 +6,7 @@
 - **Goal:** Learning and honing skills to create games.
 
 - **Current learning:** SQL / Node.js
-- **Current project:** Minishell - 42 Lisboa.
+- **Current project:** Philosophers - 42 Lisboa.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevinwmiguel&show_icons=true&theme=tokyonight)
