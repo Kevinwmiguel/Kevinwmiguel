@@ -17,7 +17,6 @@ Low-Level Programming (C)
 Backend Development
 Automation & Scripting
 
-
 - **Current learning:** SQL / Node.js
 - **Current project:** C++ piscine - 42 Lisboa.
  
@@ -26,8 +25,7 @@ Automation & Scripting
   <a href="mailto:kevincursos@gmail.com" target="_blank"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 </div>
 
-# Technologies
-### Languages
+### Technologies
 - C / C++
 - Python
 - JavaScript
@@ -48,4 +46,15 @@ Automation & Scripting
 - Nmap
 - MITRE ATT&CK Framework
 
+
+### Certifications
+- AWS Certified Cloud Practitioner
+- Google IT Support Fundamentals
+
+### Currently Learning
+- Cybersecurity Operations
+- Docker
+- Kubernetes
+- Cloud Security
+- Advanced Linux Administration
 
