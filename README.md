@@ -15,13 +15,15 @@ My goal is to build a strong career in Cybersecurity, Cloud Infrastructure, and 
 - Low-Level Programming (C)
 - Backend Development
 - Automation & Scripting
-- **Current learning:** SQL / Node.js
-- **Current project:** C++ piscine - 42 Lisboa.
+
 
 <div align="right"><br>
   <a href="https://www.linkedin.com/in/kevin-miguel-0004b8191/" target="_blank"><img  height="35" widtdh="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a> 
   <a href="mailto:kevincursos@gmail.com" target="_blank"><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 </div>
+  
+- **Current learning:** SQL / Node.js
+- **Current project:** C++ piscine - 42 Lisboa.
 
 ### Technologies
 - C / C++
